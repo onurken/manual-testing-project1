@@ -20,3 +20,7 @@ https://www.saucedemo.com
 ## Author
 Onurcan Güzel
 Junior Software Tester
+
+
+This project was created for junior-level manual testing practice.
+All test cases and bug reports are written at basic level.
