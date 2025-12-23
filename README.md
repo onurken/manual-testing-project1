@@ -1,26 +1,35 @@
-# Manual Software Testing Project
+Manual Testing Project – SauceDemo
 
-This repository contains manual testing practice for a demo web application.
+This repository contains a junior-level manual testing practice project 
+for a demo e-commerce web application.
 
-## Project Scope
-- Manual testing of a demo e-commerce website
-- Writing test scenarios and test cases
-- Bug reporting with severity and priority
+Objective
+The purpose of this project is to practice manual testing fundamentals such as:
+- Writing test scenarios
+- Writing basic test cases
+- Reporting bugs clearly
 
-## Tools & Skills
-- Manual Testing
-- Test Case & Test Scenario Writing
-- Bug Reporting
-- GitHub Issues
-- TestRail (Basic)
+ Application Under Test
+SauceDemo – Demo E-commerce Website
 
-## Tested Application
-https://www.saucedemo.com
+Scope of Testing
+- Login functionality
+- Product listing and cart operations
+- Checkout process
+- Basic UI checks
 
-## Author
+Test Artifacts
+- Test Scenarios
+- Test Cases
+- Bug Reports
+
+Tools Used
+- GitHub (documentation and issue tracking)
+- TestRail (basic level)
+
+Notes
+This project reflects junior-level manual testing skills and learning progress.
+
+Author 
 Onurcan Güzel
 Junior Software Tester
-
-
-This project was created for junior-level manual testing practice.
-All test cases and bug reports are written at basic level.
