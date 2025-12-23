@@ -37,3 +37,23 @@ Bug reports are also documented using GitHub Issues to simulate real-world QA wo
 Author 
 Onurcan Güzel
 Junior Software Tester
+
+
+
+
+
+ Demo Site Test Çalışması
+
+Bu proje kapsamında yapay zeka destekli oluşturduğum
+demo bir İletişim Formu web uygulamasını manuel olarak test ettim.
+
+Çalışma kapsamında:
+- Test senaryoları ve test case’ler yazılmıştır
+- 2 adet fonksiyonel hata tespit edilmiştir
+- Hatalar bug raporu formatında dokümante edilmiştir
+
+Test edilen alanlar:
+- Zorunlu alan validasyonları
+- E-posta format kontrolü
+- Kullanıcıya gösterilen başarı ve hata mesajları
+
